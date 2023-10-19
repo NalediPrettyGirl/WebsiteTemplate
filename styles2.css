@@ -1,0 +1,28 @@
+
+.Hero-container {
+    background-image: url('little-boy-with-notebooks.jpg');
+    background-size: cover;  
+    background-position: center;  
+    background-repeat: no-repeat;  
+    color:#ffffff ;
+   ;
+ 
+}
+button{
+         
+    background-color: #007BFF; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; }
+
+    #hero h1 {
+        font-family: 'Shrikhand', serif;
+        text-align: left;
+        margin-left: 0px;
+    }
+    
+            
+     
